@@ -24,10 +24,6 @@ A responsive admin dashboard for managing a pizzeria's menu and orders. Built wi
 
 ---
 
-## 📁 Project Structure
-
-
-
 ## 🧪 Technologies Used
 
 - **React**
